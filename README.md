@@ -167,5 +167,3 @@ It is suitable for:
 ⭐ If you found this project useful, consider giving it a star!
 
 ---
-
-Just tell me 👌
